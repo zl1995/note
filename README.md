@@ -1,7 +1,7 @@
 # note
 
-* [mongodb](mongodb/01.md)
-* [mysql](mysql/01.md)
-* [java](java/01.md)
-* [hadoop](hadoop/01.md)
-* [python](python/01.md)
+* [mongodb](mongodb/preface.md)
+* [mysql](mysql/preface.md)
+* [java](java/preface.md)
+* [hadoop](hadoop/preface.md)
+* [python](python/preface.md)
