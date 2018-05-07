@@ -7,5 +7,6 @@
  - 3.2. [debian添加开机启动项](03.2.md)
 4. docker
  - 4.1. [docker命令](04.1.md)
+ - 4.2. [redis安装](04.2.md)
 5. tomcat
  - 5.1. [tomcat启动注意](05.1.md)
