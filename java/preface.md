@@ -9,6 +9,7 @@
 3. java知识点
  - 3.1. [符号计算](03.1.md)
  - 3.2. [1.8-java.time使用](03.2.md)
+ - 3.3. [Set集合详解](https://blog.csdn.net/qq_33642117/article/details/52040345)
 4. SpringBoot记录
  - 4.1. [配置文件解析](04.1.md)
 5. mybatis记录
