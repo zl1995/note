@@ -7,7 +7,7 @@
  - 2.3. [maven导入本地jar](02.3.md)
  - 2.4. [List转换成流使用方法](02.4.md)
  - 2.5. [shp转换为Geojson](02.5.md)
- - 2.６. [shp转换为Geojson](02.6.md)
+ - 2.6. [Geometry](02.6.md)
 3. java知识点
  - 3.1. [符号计算](03.1.md)
  - 3.2. [1.8-java.time使用](03.2.md)
