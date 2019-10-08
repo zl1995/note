@@ -6,5 +6,3 @@
 * [java](java/preface.md)
 * [bigdata](hadoop/preface.md)
 * [other](other/preface.md)
-
-adadad
