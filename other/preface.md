@@ -14,4 +14,7 @@
 6. ascii
  - 6.1. [ascii对照表](06.1.md)
 7. geomesa
- - 6.1. [geomesa-hbase](07.1.md)
+ - 7.1. [geomesa-hbase](07.1.md)
+8. k8s
+ - 8.1. [基础命令](08.1.md)
+ - 8.2. [yaml描述](08.2.md)
